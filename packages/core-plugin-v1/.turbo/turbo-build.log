@@ -1,0 +1,18 @@
+
+
+> @elizaos/core-plugin-v1@0.25.9 build /home/hamza/Downloads/eliza-main (2) (Copy 3)/packages/core-plugin-v1
+> tsup --format esm --dts
+
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /home/hamza/Downloads/eliza-main (2) (Copy 3)/packages/core-plugin-v1/tsup.config.ts
+[34mCLI[39m Target: node18
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js     [22m[32m32.79 KB[39m
+[32mESM[39m [1mdist/index.js.map [22m[32m114.75 KB[39m
+[32mESM[39m ⚡️ Build success in 198ms
+DTS Build start
+DTS ⚡️ Build success in 30498ms
+DTS dist/index.d.ts 93.73 KB
